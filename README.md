@@ -23,7 +23,7 @@ DELETE http://localhost:8000/produtos/id Deletar um produto
 database/sql/produtos.sql
 
 ## Instalação da aplicação
-git@github.com:dbodelon/rest-api-php-laravel.git
+git clone git@github.com:dbodelon/rest-api-php-laravel.git
 
 cd rest-api-php-laravel
 
